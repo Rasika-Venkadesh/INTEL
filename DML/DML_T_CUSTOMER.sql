@@ -22,4 +22,4 @@ VALUES
     ('c-9', 'Kadappa', '9647825463', 'Regular', 'ACTIVE', 0, 0, 0, CURRENT_DATE, CURRENT_USER),
     ('c-10', 'Bangalore', '9000080000', 'Silver', 'ACTIVE', 0, 0, 0, CURRENT_DATE, CURRENT_USER),
     ('c-11', 'Jodhpur', '9999933333', 'Bronze', 'ACTIVE', 0, 0, 0, CURRENT_DATE, CURRENT_USER),
-    ('c
+    ('c-12','Delhi','9452018907','Regular','ACTIVE',0,0,0,CURRENT_DATE,CURRENT_USER) 
